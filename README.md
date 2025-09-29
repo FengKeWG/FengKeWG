@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm WindGuest!
 
-<!--
-**FengKeWG/FengKeWG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 技术栈
+- Java / C++ / Python
+- Web / MineCraft 插件开发
 
-Here are some ideas to get you started:
+### 📊 GitHub 数据
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FengKeWG&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FengKeWG&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 社交
+[![](https://img.shields.io/badge/Bilibili-风Guest-00A1D6)](https://space.bilibili.com/406746000)
+[![](https://img.shields.io/badge/Website-windguest.com-blue)](https://www.windguest.com)
