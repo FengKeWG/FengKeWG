@@ -32,7 +32,6 @@ Founder @ <a href="https://www.windguest.com" target="_blank">WindGuest Software
 ---
 
 <p align="center">
-  <a href="mailto:hi@windguest.com"><img src="https://img.shields.io/badge/Email-hi@windguest.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/FengKeWG"><img src="https://img.shields.io/badge/GitHub-FengKeWG-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.windguest.com"><img src="https://img.shields.io/badge/Website-WindGuest.com-blue?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
   <a href="https://space.bilibili.com/406746000"><img src="https://img.shields.io/badge/Bilibili-WindGuest-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/></a>
