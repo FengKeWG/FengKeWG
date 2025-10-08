@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm WindGuest</h1>
 
 <p align="center">
-Java / C++ / Python / Web / Minecraft Plugin Development  
+C++ / Go / Java / Python / Web / Minecraft Plugin Development  
 </p>
 
 <p align="center">
@@ -15,8 +15,9 @@ Founder @ <a href="https://www.windguest.com" target="_blank">WindGuest Software
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
