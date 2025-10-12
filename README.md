@@ -5,7 +5,7 @@ C++ / Go / Java / Python / Web / Minecraft Plugin Development
 </p>
 
 <p align="center">
-Server / Linux / Docker
+Server / Linux
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@ Founder @ <a href="https://www.windguest.com" target="_blank">WindGuest Software
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minecraft%20Plugin-62B47A?style=for-the-badge&logo=mojangstudios&logoColor=white"/>
 </p>
 
