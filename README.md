@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm WindGuest</h1>
 
 <p align="center">
-C++ / Go / Java / Python / Web / Minecraft Plugin Development  
+Go / Python / Java / C++ / Web / Minecraft Plugin Development
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@ Founder @ <a href="https://www.windguest.com" target="_blank">WindGuest Software
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Minecraft%20Plugin-62B47A?style=for-the-badge&logo=mojangstudios&logoColor=white"/>
 </p>
@@ -34,5 +34,4 @@ Founder @ <a href="https://www.windguest.com" target="_blank">WindGuest Software
 <p align="center">
   <a href="https://github.com/FengKeWG"><img src="https://img.shields.io/badge/GitHub-FengKeWG-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.windguest.com"><img src="https://img.shields.io/badge/Website-WindGuest.com-blue?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
-  <a href="https://space.bilibili.com/406746000"><img src="https://img.shields.io/badge/Bilibili-WindGuest-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/></a>
 </p>
